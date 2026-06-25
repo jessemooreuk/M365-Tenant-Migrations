@@ -1,4 +1,4 @@
-#
+<#
 .SYNOPSIS
     Exchange Online Mailbox Usage Report - Counts up every byte your users are hoarding.
 .DESCRIPTION
